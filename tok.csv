@@ -1,0 +1,326 @@
+titre,text
+
+T,"['Je', 'commen�ai', 'tourner', 'droit', 'lorsqu', 'vu', 'sen', 'invers', 'voitur', 'Mr', 'nom', 'De', 'personn', 'empi�tait', 'voie', 'circul', 'roulant', 'doucement', 'immobilis�', 'imm�diat', 'v�hicul', 'Mr', 'nom', 'De', 'personn', 'roulait', 'plu', 'vite', 'pu', 'fair', 'autant', 'frott�', 'tout', 'longueur', 'voitur', 'pare', 'choc', 'avant', 'l�g�rement', 'ab�m�', 'Je', 'pu', 'apercevoir', 'Mr', 'nom', 'De', 'personn', 'avant', 'car', 'roulait', 'gauch', 'd�passait', 'v�hicul', 'stationn', 'rue', 'masqu�', 'haie', 'pri', 'photo', 'endroit']"
+
+T,"['J', 'allai', 'ver', 'nom', 'De', 'lieu', 'Je', 'venai', 'doubler', 'v�hicul', 'arr�t�', 'droit', 'just', 'avant', 'carrefour', 'rabattai', 'faibl', 'allur', 'droit', 'Le', 'v�hicul', 'venait', 'gauch', 'pri', 'tournant', 'vive', 'allur', 'san', 'assur', 'pr�senc', 'droit', 'ailleur', 'parti', 'pass�', 'choc', 'commenc�', 'porti�r', 'gauch', 'finir', 'arri�r']"
+
+T,"['Le', 'motocyclist', 'circulait', 'file', 'droit', 'doubl', 'voie', 'sen', 'uniqu', 'perdu', 'contr�l', 'moto', 'd�rap�', 'flaqu', 'huil', 'Il', '�ject�', 'Sa', 'moto', 'venu', 'heurter', 'v�hicul', 'roulant', 'niveau', 'voie', 'gauch', 'La', 'moto', 'heurt�', 'avant', 'but�', 'c�t�', 'droit', 'voitur', 'sur', 'moment', 'content�', 'regard', 'd�g�t', 'commi', 'avant', 'v�hicul', 'Le', 'flux', 'circul', 'choc', 'caus�', 'accid', 'emp�ch�', 'inspect', 'aussi', 'c�t�', 'lat�ral', 'droit', 'apr�', 'inspect', 'av�r', 'c�t�', 'ray�', 'enfonc�', 'plusieur', 'endroit', 'notam', 'niveau', 'ail', 'pr�', 'feux', 'avant']"
+
+T,"['Je', 'circulai', 'voie', 'droit', 'dan', 'virag', 'moto', 'd�rap�', 'gravier', 'Je', 'tomb�', 'engin', 'fini', 'cours', 'voie', 'gauch', 'Le', 'v�hicul', 'circul', 'cett', 'voie', 'pu', 'stopper', 'percut�', 'v�hicul']"
+
+T,"['lor', 'ralentiss', 'conducteur', 'suivait', 'frein�', 'percut�', 'arri�r']"
+
+T,"['�tant', 'arr�t', 'feu', 'tricolor', 'roug', 'percut�', 'arri�r', 'v�hicul', 'conducteur', 'r�ussi', 'arr�ter', 'avant', 'v�hicul', 'mon', 'v�hicul', 'subi', 'd�g�t', 'visuel', 'arri�r', 'sou', 'r�serv', 'autr', 'd�g�t']"
+
+T,"['Le', 'v�hicul', 'arr�t�', 'c�dez', 'passag', 'attend', 'voie', 'libr', 'place', 'sen', 'giratoir', 'Le', 'v�hicul', 'arriv', 'file', 'frein�', 'temp', 'all�', 'heurter', 'v�hicul']"
+
+T,"['alor', 'red�marrai', 'feu', 'vert', 'heurt�', 'arri�r', 'v�hicul', 'pr�c�dait', 'pein', 'touch�', 'v�hicul', 'puisqu', 'seul', 'pare', 'choc', 'l�g�rement', 'ab�m�', 'mon', 'v�hicul', 'subi', 'aucun', 'd�g�t']"
+
+T,"['Le', 'v�hicul', 'arr�t�', 'c�dez', 'passag', 'attend', 'voie', 'libr', 'place', 'sen', 'giratoir', 'Le', 'v�hicul', 'arriv', 'file', 'frein�', 'temp', 'all�', 'heurter', 'v�hicul']"
+
+T,"['alor', 'red�marrai', 'feu', 'vert', 'heurt�', 'arri�r', 'v�hicul', 'pr�c�dait', 'pein', 'touch�', 'v�hicul', 'puisqu', 'seul', 'pare', 'choc', 'l�g�rement', 'ab�m�', 'mon', 'v�hicul', 'subi', 'aucun', 'd�g�t']"
+
+T,"['le', 'deux', 'v�hicul', 'stationn', 'perpendiculair', 'direct', 'voie', 'autr', 'perpendiculair', 'chauss�', 'En', 'absenc', 'conducteur', 'frein', 'v�hicul', 'l�ch�', 'entra�n�', 'pent', 'v�hicul', 'travers�', 'chauss�', 'avenu', 'nom', 'De', 'voie', 'heurt�', 'v�hicul', 'enfon�', 'porti�r', 'droit', 'v�hicul', 'gar�', 'fa�on', 'normal', 'park', 'face', 'lyc�', 'nom', 'De', 'personn']"
+
+T,"['dan', 'embouteillag', 'circul', 'voie', 'gauch', 'empi�t�', 'lign', 'm�dian', 'juger', '�tendu', 'bouchon', 'quand', 'motard', 'v�hicul', 'doublant', 'gauch', 'rendu', 'invis', 'angl', 'mort', 'v�hicul', 'heurt�', 'ail', 'avant', 'gauch', 'Si', 'conscient', 'avoir', 'commi', 'infract', 'franchiss', 'lign', 'blanch', 'tien', 'signal', 'motard', 'ca']"
+
+T,"['En', 'recul', 'sortir', 'place', 'park', 'v�hicul', 'heurt�', 'ail', 'gauch', 'autr', 'v�hicul']"
+
+T,"['sortant', 'lieu', 'travail', 'engageai', 'rue', 'nom', 'De', 'voie', '�', 'approch', 'carrefour', 'croisement', 'avenu', 'nom', 'De', 'voie', 'ralenti', 'pr�senc', 'feu', 'orang', 'clignot', 'sur', 'gauch', 'trouvait', 'loin', 'voitur', 'estimai', 'avoir', 'temp', 'travers', 'carrefour', 'confiant', 'priorit�', 'droit', 'laquel', 'droit', 'La', 'voitur', 'arrivait', 'tr�', 'vite', 'percuta', 'arri�r', 'v�hicul', 'bascula', 'droit', 'glissa', 'chauss�', 'quelqu', 'm�tre']"
+
+T,"['alor', 'roulai', 'direct', 'nom', 'De', 'lieu', 'v�hicul', 'type', 'nom', 'De', 'v�hicul', 'stationn�', 'band', 'arr�t', 'urgenc', 'san', 'aucun', 'signalis', 'travers�', 'rout', 'prendr', 'sen', 'interdit', 'droit', 'gauch', 'Je', 'heurt�', 'perpendiculair', 'milieu', 'lat�ral', 'gauch', 'Le', 'feu', 'pr�c�dent', 'vert', 'seul', 'v�hicul', 'rout']"
+
+T,"['Le', 'v�hicul', 'pr�c�dait', 'mi', 'recul', 'voyant', 'pourrait', 'passer', 'rue', 'nom', 'De', 'voie', 'travaux', 'barr�', 'indiqu�', 'd�', 'recul', 'tour', 'faisant', 'percut�', 'v�hicul', 'trouvant', 'rue', 'nom', 'De', 'voie']"
+
+T,"['Je', 'circulai', 'rue', 'voie', 'nom', 'De', 'voie', 'Le', 'v�hicul', 'arrivait', 'rue', 'nom', 'De', 'voie', 'appr�tait', 'tourner', 'gauch', 'rue', 'voie', 'nom', 'De', 'voie', 'le', 'deux', 'v�hicul', 'roulaient', 'faibl', 'vitess', 'cru', 'v�hicul', 'laissait', 'passer', 'frein�', 'pie', 'gliss�', 'p�dale']"
+
+T,"['Je', 'rendai', 'chez', 'Mr', 'nom', 'De', 'personn', 'garagist', 'nom', 'De', 'lieu', 'Je', 'stationnai', 'v�hicul', 'nom', 'De', 'v�hicul', 'c�t�', 'droit', 'rue', 'sen', 'uniqu', 'devant', 'entr�', 'garag', 'alor', 'adversair', 'reculait', 'touchant', 'nom', 'De', 'v�hicul', 'cassait', 'phare', 'avant', 'gauch']"
+
+T,"['L', 'accid', 'produit', 'p�riph�riqu', 'est', 'entr', 'nom', 'De', 'lieu', 'nom', 'De', 'lieu', 'La', 'fermetur', 'provisoir', 'p�riph�riqu', 'entra�n�', 'fort', 'concentr', 'v�hicul', 'fort', 'ralentiss', 'Le', 'v�hicul', '\x93oubli�\x94', 'freiner', 'temp', 'provoqu�', 'accid', 'venant', 'heurter', 'v�hicul', 'arri�r']"
+
+T,"['Le', 'v�hicul', 'roulait', 'lentement', 'lign', 'droit', 'tout', 'pr�', 'domicil', 'v�hicul', 'stationn', 'band', 'r�serv�', 'cet', 'effet', 'conductric', 'ouvert', 'porti�r', 'gauch', 'avant', 'provoqu', 'fait', 'choc', 'r�troviseur', 'v�hicul', 'c�t�', 'droit', 'bris�', 'moment', 'passag', 'v�hicul']"
+
+T,"['Je', 'circulai', 'rue', 'nom', 'De', 'voie', 'mi', 'clignot', 'tourner', 'gauch', 'rue', 'nom', 'De', 'voie', 'Mr', 'nom', 'De', 'personn', 'd�port�', 'voie', 'gauch', 'd�passer', 'accroch�', 'v�hicul', 'alor', 'train', 'tourner', 'rue', 'nom', 'De', 'voie']"
+
+T,"['le', 'deux', 'v�hicul', 'roulaient', 'rond', 'point', 'file', 'diff�rent', 'v�hicul', 'voie', 'gauch', 'v�hicul', 'cell', 'droit', 'pri', 'sorti', 'rond', 'point', 'sorti', 'deux', 'voi', 'sen', 'uniqu', 'moment', 'engag', 'cett', 'sorti', 'v�hicul', 'venu', 'percut', 'v�hicul', 'niveau', 'porti�r', 'arri�r', 'gauch', 'Le', 'v�hicul', 'projet�', 'trottoir', 'endommag�', 'roue', 'arri�r', 'droit']"
+
+T,"['Je', 'roulai', 'normal', 'droit', 'lorsqu', 'voitur', 'coup�', 'rout', 'sortant', 'park', 'o�', 'trouvait', 'san', 'tenir', 'compt', 'stop', 'obligeait', 'arr�ter', 'essay�', '�viter', 'd�portant', 'gauch', 'pu', '�viter', 'choc']"
+
+T,"['�', 'sorti', 'autorout', 'nom', 'De', 'voie', 'sorti', 'nom', 'De', 'lieu', 'Je', 'arriv�', 'file', 'ext�rieur', 'sen', 'giratoir', 'Au', 'feu', 'vert', 'tourn�', 'droit', 'rejoindr', 'national', 'nom', 'De', 'voie', 'direct', 'nom', 'De', 'lieu', 'autr', 'v�hicul', 'fait', 'man\x9cuvr', 'moment', 'rejoindr', 'national', 'heurt�', 'niveau', 'porti�r', 'arri�r', 'droit']"
+
+T,"['�', 'nom', 'De', 'lieu', 'alor', 'tournion', 'droit', 'arr�t�', 'laisser', 'passer', 'v�hicul', 'pompier', 'voitur', 'suivait', 'alor', 'heurt�']"
+
+T,"['mon', 'v�hicul', 'gar�', 'place', 'stationn', 'coll�g', 'lequel', 'r�side', 'recul�', 'aller', 'fair', 'cours', 'touch�', 'autr', 'v�hicul', 'gar�', 'aussi', 'lieu']"
+
+T,"['Je', 'sortai', 'park', 'r�sidenc', 'nom', 'De', 'lieu', 'dirig', 'ver', 'centr', 'nom', 'De', 'lieu', 'gauch', 'Il', 'autr', 'v�hicul', 'devant', 'v�hicul', 'roulait', 'plu', 'Km', 'lequel', 'd�', 'recul', 'peu', 'laisser', 'passer', 'cet', 'autr', 'v�hicul', 'pass�', 'cru', 'v�hicul', 'laisserait', 'passag', 'rien', 'percut�', 'niveau', 'phare', 'avant', 'gauch']"
+
+T,"['circul', 'boulevard', 'nom', 'De', 'voie', 'v�hicul', 'stationn�', 'boulevard', 'quand', 'celui', 'ci', 'effectu�', 'march', 'arri�r', 'rue', 'nom', 'De', 'voie', 'pui', 'red�marr�', 'brusquement', 'ver', 'boulevard', 'nom', 'De', 'voie', 'tourner', 'gauch', 'percut�', 'moment', 'o�', 'arrivai', 'carrefour', 'Le', 'v�hicul', 'arrivait', 'parti', 'gauch', 'chauss�', 'coup�', 'man\x9cuvr', 'tourner', 'gauch']"
+
+T,"['par', 'temp', 'brouillard', 'stopp�', 'polic', 'voie', 'gauch', 'raison', 'carambolag', 'plu', 'loin', 'imm�diat', 'percut�', 'v�hicul', 'arri�r', 'projet�', 'rail', 's�curit�']"
+
+T,"['Je', 'circulai', 'rue', 'vill', 'voie', 'prioritair', 'lorsqu', 'abord', 'carrefour', 'v�hicul', 'venant', 'gauch', 'respect�', 'arr�t', 'obligatoir', 'stop', 'En', 'effet', 'v�hicul', 'd�', 'marquer', 'arr�t', 'avant', 'franchiss', 'carrefour', 'malgr�', 'respect', 'certain', 'limit', 'vitess', 'vigueur', 'pu', '�viter', 'choc', 'v�hicul', 'visibl', 'fa�on', 'd�lib�r�', 'franchi', 'stop']"
+
+T,"['m�decin', 'gard', 'commun', 'nom', 'De', 'lieu', 'alor', 'rentrai', 'domicil', 'apr�', 'visit', 'nuit', 'aupr�', 'malad', 'date', 'matin', 'carrefour', 'rue', 'nom', 'De', 'voie', 'nom', 'De', 'voie', 'nom', 'De', 'lieu', 'nom', 'De', 'v�hicul', 'immatricul�', 'num�ro', 'immatricul', 'refus�', 'priorit�', 'respect', 'panneau', 'band', 'blanch', 'signalis', 'c�dez', 'passag', 'mon', 'v�hicul', 'heurt�', 'ail', 'avant', 'droit', 'avant', '�tre', 'arr�t�', 'autr', 'panneau', 'signalis', '\x93cogn�\x94', 'ail', 'avant', 'droit']"
+
+T,"['reven', 'domicil', 'chauffeur', 'v�hicul', 'pr�c�dant', 'perdu', 'contr�l', 'v�hicul', 'caus', 'brutal', 'vergla', 'Je', 'pu', 'tour', 'contr�ler', 'v�hicul', 'apr�', 'm�tre', 'percut�', 'v�hicul', 'mme', 'nom', 'De', 'personn', 'Je', 'tien', 'signal', 'vergla', 'ailleur', 'beaucoup', 'v�hicul', 'd�raper', 'cett', 'rue', 'rien', 'pouvait', 'laisser', 'pr�voir', 'tel', 'vergla']"
+
+T,"['Je', 'descendai', 'avenu', 'nom', 'De', 'voie', 'roulant', 'km', 'voyai', 'voitur', 'mlle', 'nom', 'De', 'personn', 'arr�t�', 'stop', 'En', 'rapproch', 'intersect', 'vu', 'voitur', 'engag', 'avenu', 'alor', 'arrivai', 'quasiment', 'hauteur', 'imm�diat', 'commenc�', 'freiner', 'Je', 'pouvai', 'continu', 'trajectoir', 'percut', 'voitur', 'c�t�', 'conducteur', 'Je', 'pouvai', 'd�porter', 'droit', '�viter', 'caus', 'trottoir', 'arbr', 'panneaux', 'signalis', 'afin', '�viter', 'choc', 'donc', 'braqu�', 'gauch', 'pensant', 'mlle', 'nom', 'De', 'personn', 'freinerait', '�viter', 'accid', 'malheureus', 'comm', 'dit', 'suit', 'regardait', 'moment', 'droit', 'venai', 'gauch', 'vu', 'v�hicul', 'donc', 'continu�', 'engag', 'regard', 'toujour', 'droit', 'heurt�', 'v�hicul', 'niveau', 'ail', 'avant', 'droit']"
+
+T,"['arr�t�', 'sorti', 'park', 'place', '�glise', 'nom', 'De', 'lieu', 'motocyclett', 'venu', 'percut', 'ail', 'avant', 'gauch', 'v�hicul', 'La', 'motocyclett', 'perturb�', 'v�hicul', 'circulait', 'devant', 'heurt�', 'voitur', 'arr�t', 'encor', 'engag�', 'chauss�']"
+
+T,"['Je', 'roulai', 'voie', 'droit', 'devant', 'roulait', 'camionnett', 'ell', 'arr�t�', 'pui', 'conducteur', 'camionnett', 'enclench�', 'march', 'arri�r', 'recul�', 'tell', 'mani�r', 'fini', 'emboutir', 'avant', 'v�hicul', 'La', 'boul', 'tracter', 'camionnett', 'enfonc�', 'pare', 'choc', 'devant', 'voitur']"
+
+T,"['mon', 'v�hicul', 'heurt�', 'angl', 'avant', 'gauch', 'v�hicul', 'stationn�', 'prenant', 'stationn', 'march', 'avant']"
+
+T,"['mon', 'v�hicul', 'stationn', 'berg', 'devant', 'domicil', 'heurt�', 'cyclist', 'perdu', 'contr�l', 'bicyclett']"
+
+T,"['Le', 'v�hicul', 'trouvait', 'immobilis�', 'milieu', 'chauss�', 'raison', 'inexpliqu�', 'La', 'chauss�', 'glissant', 'v�hicul', 'pu', 'arr�ter']"
+
+T,"['alor', 'rentrion', 'domicil', 'vacanc', 'nom', 'De', 'lieu', 'v�hicul', 'percut�', 'droit', 'niveau', 'ail', 'avant', 'nou', 'rond', 'point', 'indon�sien', 'priorit�', 'gauch', 'lorsqu', 'tier', 'percut�', 'droit', 'projet', 'contr', 'rond', 'point', 'b�ton']"
+
+T,"['J', 'v�hicul', 'arr�t', 'feu', 'roug', 'derri�r', 'nom', 'De', 'v�hicul', 'gendarmeri', 'lorsqu', 'feu', 'pass�', 'vert', 'nom', 'De', 'v�hicul', 'cal�', 'attendai', 'red�marr', 'lorsqu', 'heurt�', 'arri�r', 'v�hicul', 'conduis', 'v�hicul', 'am�nag�', 'conduit', 'manuel', 'san', 'dout', 'accentu�', 'pression', 'frein', 'princip', 'tenai', 'main', 'droit', 'caus�', 'douleur', 'poignet', '�vit�', 'heurter', 'autr', 'v�hicul']"
+
+T,"['J', 'engag�', 'rue', 'doubl', 'sen', 'quand', 'voitur', 'arriv�', 'gauch', 'pensant', 'allait', 'arr�ter', 'laisser', 'priorit�', 'coup�', 'rout', 'alor', 'frein�', 'trop', 'tard', 'venu', 'percut', 'niveau', 'ail', 'droit']"
+
+T,"['L', 'accid', 'lieu', 'place', 'nom', 'De', 'voie', 'nom', 'De', 'lieu', 'date', 'alor', 'v�hicul', 'sortait', 'emplac', 'park', 'v�hicul', 'engag�', 'prendr', 'place', 'v�hicul', 'avant', 'dernier', 'pu', 'd�gager', 'total', 'La', 'porti�r', 'avant', 'droit', 'v�hicul', 'percut�', 'pare', 'choc', 'arri�r', 'v�hicul', 'arr�t�', 'moment', 'l�', 'ayant', 'oubli�', 'indiqu', 'point', 'choc', 'v�hicul', 'jour', 'accid', 'rajout�', 'apr�', 'Le', 'retard', 'envoi', 'cett', 'd�clarat', 'd�', 'demand', 'adversair', 'souhaitait', 'premier', 'temp', 'fair', 'd�clarat', 'demand�', 'attendr']"
+
+T,"['dan', 'virag', 'rout', 'mouill�', 'v�hicul', 'gliss�', 'percut�', 'barri�r', 's�curit�']"
+
+T,"['Je', 'roulai', 'rue', 'nom', 'De', 'voie', 'nom', 'De', 'lieu', 'quand', 'vu', 'v�hicul', 'arrivait', 'sen', 'invers', 'porti�r', 'arri�r', 'gauch', 'ouvert', 'Je', 'serr�', 'ba', 'c�t�', 'moment', 'o�', 'arrivait', 'hauteur', 'pu', '�viter', 'cogn�', 'porti�r', 'ouvert', 'Le', 'v�hicul', 'immobilis�', 'm�tre', 'plu', 'loin', 'conducteur', 'entendu', 'choc']"
+
+T,"['v�hicul', 'roulant', 'lentement', 'Le', 'v�hicul', 'fait', 'mine', 'laisser', 'passer', 'v�hicul', 'fait', 'erreur', 'command', 'pie', 'Le', 'choc', 'port�', 'parti', 'arri�r', 'port', 'avant', 'environ', 'serrur']"
+
+T,"['Je', 'regardai', 'si', 'v�hicul', 'venaient', 'droit', 'heurt�', 'v�hicul', 'devant']"
+
+T,"['apr�', 'avoir', 'tourn�', 'gauch', 'v�hicul', 'accroch�', 'd�passant', 'virant', 'droit']"
+
+T,"['J', 'arrivai', 'avenu', 'nom', 'De', 'voie', 'lorsqu', 'intersect', 'avenu', 'nom', 'De', 'voie', 'v�hicul', 'apr�', 'temp', 'h�sitat', 'r�acc�l�r�', 'engag', 'gauch', 'sen', 'invers', 'avenu', 'nom', 'De', 'voie', 'pu', '�viter', 'heurtant', 'avant', 'gauch', 'porti�r', 'arri�r', 'gauch']"
+
+T,"['Je', 'venai', 'boulevard', 'nom', 'De', 'voie', 'feu', 'vert', 'deux', 'fl�che', 'sol', 'indiquai', 'voi', 'lesquel', 'trouvai', 'permettai', 'tourner', 'gauch', 'pensant', 'avoir', 'priorit�', 'engag�', 'direct', 'place', 'nom', 'De', 'voie', 'lorsqu', 'heurt�', 'nom', 'De', 'v�hicul', 'Mr', 'nom', 'De', 'personn']"
+
+T,"['Je', 'trouvai', 'rue', 'nom', 'De', 'voie', 'feu', 'roug', 'Je', 'virai', 'droit', 'lentement', 'puisqu', 'hauteur', 'boulevard', 'nom', 'De', 'voie', 'circul', 'dens', 'passag', 'clout�', 'proximit�', 'Le', 'v�hicul', 'percut�']"
+
+T,"['J', 'arr�t�', 'intersect', 'clignot', 'gauch', 'prendr', 'avenu', 'nom', 'De', 'voie', 'quand', 'v�hicul', 'heurt�', 'arri�r']"
+
+T,"['arr�t�', 'feu', 'roug', 'pie', 'frein', 'frein', 'main', 'lev�', 're�u', 'choc', 'brutal', 'arri�r', 'proven', 'nom', 'De', 'v�hicul', 'immatricul�', 'num�ro', 'immatricul', 'alor', 'projet�', 'contr', 'voitur', 'pr�c�dant', 'nom', 'De', 'v�hicul', 'immatricul�', 'num�ro', 'immatricul', 'Il', 'pleuvait', 'vers', 'chauss�', 'glissant', 'Le', 'premier', 'choc', 'venait', 'fait', 'nom', 'De', 'v�hicul', 'immatricul�', 'num�ro', 'immatricul', 'initial', 'touch�', 'nom', 'De', 'v�hicul']"
+
+T,"['arr�t�', 'c�der', 'travers�', 'pi�ton', 'passag', 'clout�', 'fait', 'rentrer', 'dedan', 'derri�r', 'v�hicul']"
+
+T,"['collis', 'provoqu�', 'inattent', 'v�hicul', 'venant', 'gauch']"
+
+T,"['apr�', '�tre', 'arr�t�', 'feu', 'roug', 'reparti', 'feu', 'vert', 'moment', 'v�hicul', 'venu', 'percut', 'fortement', 'arri�r', 'ressenti', 'douleur', 'nuqu', 'do']"
+
+T,"['Au', 'feu', 'tricolor', 'arr�t�', 'derri�r', 'voitur', 'nom', 'De', 'v�hicul', 'num�ro', 'immatricul', 'Le', 'feu', 'passant', 'vert', 'amorc�', 'd�marrag', 'chauffeur', 'v�hicul', 'ci', 'dessu', 'nomm�', 'd�marr�', 'Je', 'donc', 'venu', 'heurter', 'arri�r', 'voitur', 'mon', 'v�hicul', 'pri', 'vitess', 'just', 'choc', 'l�ger', 'ceci', 'suffi', 'tordr', 'pare', 'choc']"
+
+T,"['Je', 'roulai', 'droit', 'avenu', 'nom', 'De', 'voie', 'direct', 'rue', 'nom', 'De', 'voie', 'o�', 'devai', 'rendr', 'arriv', 'cett', 'rue', 'prend', 'gauch', 'rang�', 'droit', 'plu', 'possibl', 'assur', 'aucun', 'v�hicul', 'arrivait', 'Je', 'vu', 'aucun', 'v�hicul', 'proch', 'ni', 'devant', 'ni', 'derri�r', 'commenc�', 'tourner', 'gauch', 'Ai', 'mal', 'appr�ci�', 'vitess', 'v�hicul', 'toujour', 'conductric', 'frein�', 'derni�r', 'second', 'pu', '�viter', 'choc', 'indiqu�', 'changement', 'direct']"
+
+T,"['sur', 'p�riph�riqu', 'date', 'heurt�', 'arri�r', 'v�hicul', 'mme', 'nom', 'De', 'personn', 'heurt�', 'troisi�m', 'v�hicul', 'pr�sent', 'imm�diat', 'lieux', 'polic', 'constat�', 'impossibilit�', 'v�hicul', 'red�marr', 'ordonn�', 'enl�vement', 'camion', 'd�pannag']"
+
+T,"['Le', 'v�hicul', 'num�ro', 'immatricul', 'troisi�m', 'voie', 'v�hicul', 'num�ro', 'immatricul', 'premi�r', 'voie', 'alor', 'v�hicul', 'train', 'doubler', 'conducteur', 'perdu', 'contr�l', 'v�hicul', 'Il', 'tap�', 'rambard', 'central', 's�curit�', 'travers�', 'voi', 'Il', 'venu', 'couper', 'rout', 'premi�r', 'voie', 'mon', 'v�hicul', 'tap�', 'abord', 'v�hicul', 'c�t�', 'droit', 'avant', '�craser', 'rambard', 's�curit�']"
+
+T,"['Ce', 'jour', 'date', 'moment', 'engag', 'place', 'park', 'sou', 'sol', '�ternu�', 'fortement', 'fit', 'rel�cher', 'involontair', 'angl', 'braquag', 'volant', 'si', 'bien', 'angl', 'avant', 'droit', 'v�hicul', 'heurt�', 'pilier', 'angl', 'droit', 'place', 'park', 'Le', 'pilier', 'ni', 'trace', 'choc', 'ni', 'dommag']"
+
+T,"['circul', 'avenu', 'nom', 'De', 'voie', 'v�hicul', 'brusquement', 'coup�', 'voie', 'v�hicul', 'Le', 'conducteur', 'v�hicul', 'reconnu', 'tort', 'expliqu', 'suivait', 'v�hicul', 'pr�c�dait', 'voulait', 'perdr', 'vue']"
+
+T,"['glissad', 'plaqu', 'vergla', 'heurta', 'arbr', 'terr', 'plein', 'donc', 'v�hicul', 'cinq', 'minut', 'apr�', 'v�hicul', 'vient', 'heurter', 'arri�r', 'projett', 'nouveau', 'arbr', 'mon', 'v�hicul', 'subi', 'dommag', 'arri�r']"
+
+T,"['apr�', 'arr�t', 'v�hicul', 'd�', 'freiner', 'fortement', 'Le', 'v�hicul', 'frein�', 'trop', 'tard', 'pouss�', 'arri�r', 'v�hicul', 'constat', 's�par�', 'donc', 'arr�t', 'moment', 'impact']"
+
+T,"['Je', 'venai', 'freiner', 'derri�r', 'lorsqu', 'nom', 'De', 'v�hicul', 'num�ro', 'immatricul', 'percut�', 'arri�r', 'bien', 'arr�t', 'lor', 'choc', 'pouss�']"
+
+T,"['En', 'roulant', 'repartir', 'park', 'r�sidenc', 'nom', 'De', 'voie', 'nom', 'De', 'lieu', 'heurt�', 'cl�ture', 'horizontal', 'ciment']"
+
+T,"['Me', 'trouvant', 'avenu', 'nom', 'De', 'voie', 'carrefour', 'rue', 'nom', 'De', 'voie', 'voulant', 'tourner', 'droit', 'v�hicul', 'venant', 'gauch', 'forc�', 'priorit�', 'touch�', 'avant', 'droit', 'autr', 'part', 'rajout�', 'apr�', 'constat', 'colonn', 'observ', 'chang�', 'croix', 'num�ro', 'croix', 'num�ro', 'ainsi', 't�moin']"
+
+T,"['mon', 'v�hicul', 'trouvait', 'arr�t�', 'stop', 'quand', 'v�hicul', 'heurt�', 'arri�r']"
+
+T,"['heurt�', 'v�hicul', 'num�ro', 'immatricul', 'v�hicul', 'projet�', 'contr', 'voitur', 'comm', 'roulion', 'tr�', 'faibl', 'vitess', 'v�hicul', 'subi', 'dommag']"
+
+T,"['A', 'nom', 'De', 'lieu', 'arr�t�', 'feu', 'roug', 'automobilist', 'vu', 'feu', 'heurt�', 'plein', 'fouet', 'arri�r', 'gauch', 'v�hicul', 'pa', 'dommag', 'autr', 'v�hicul', 'erreur', 'recto']"
+
+T,"['Je', 'engageai', 'place', 'nom', 'De', 'voie', 'venant', 'avenu', 'nom', 'De', 'voie', 'Le', 'v�hicul', 'tournait', 'autour', 'nom', 'De', 'voie', 'donc', 'refus�', 'priorit�']"
+
+T,"['J', 'vu', 'arri�r', 'v�hicul', 'approch', 'appuy�', 'fond', 'frein', 'v�hicul', 'continu�', 'approch', 'cru', 'moment', 'frein', 'r�pondu', 'rempli', 'constat', 'imm�diat', 'apr�', 'essay�', 'frein', 'fonctionnai', 'tr�', 'bien', 'mainten', 'certitud', 'rue', 'l�g�rement', 'pent', 'camion', 'recul�', 'venu', 'percut', 'but�', 'situ�', 'niveau', 'plancher', 'donc', 'capot', 'pa', 'pare', 'choc']"
+
+T,"['Je', 'd�sirai', 'sortir', 'rue', 'nom', 'De', 'voie', 'mon', 'arr�t', 'stop', 'tout', 'fait', 'rigoureux', 'chauss�', 'mouill�', 'La', 'voitur', 'adversair', '�vit�']"
+
+T,"['Le', 'v�hicul', 'arr�t�', 'c�dez', 'passag', 'car', 'devant', 'file', 'voitur', 'arr�t�', 'caus', 'feu', 'roug', 'Le', 'v�hicul', 'alor', 'venu', 'accident', 'arri�r', 'v�hicul']"
+
+T,"['voulant', '�viter', 'chien', 'traversait', 'heurt�', 'mur', 'maison', 'num�ro', 'rue', 'nom', 'De', 'voie', 'nom', 'De', 'lieu']"
+
+T,"['Le', 'date', 'arr�t', 'feu', 'roug', 'lorsqu', 'v�hicul', 'percut�', 'arri�r']"
+
+T,"['Me', 'rendant', 'nom', 'De', 'lieu', 'depui', 'nom', 'De', 'lieu', 'retrouv�', 'carrefour', 'just', 'apr�', 'sorti', 'nom', 'De', 'lieu', 'stop', 'voitur', 'devant', 'tournant', 'droit', 'ver', 'nom', 'De', 'lieu', 'alor', 'premi�r', 'voitur', 'passait', 'stop', 'fi', 'contr�l', 'gauch', 'd�marrai', 'percutai', 'deuxi�m', 'voitur', 'encor', 'pass�', 'stop']"
+
+T,"['voulant', 'd�passer', 'semi', 'remorqu', 'clignot', 'droit', 'dernier', 'tourna', 'gauch', 'oblig', 'braquer', 'gauch', '�viter', 'La', 'voitur', 'd�rap�', 'chauss�', 'mouill�', 'percut�', 'trottoir', 'pui', 'mur', 'cl�ture', 'face', 'Le', 'conducteur', 'camion', 'bien', 'mi', 'clignot', 'gauch', 'remorqu', 'inversait', 'signal', 'droit', 'Ne', 'touch�', 'conducteur', 'd�clar�', 'hor', 'caus', 'voulu', '�tablir', 'constat', 'ayant', 'quitt�', 'voitur', 'appel', 'd�panneur', 'retrouv�', 'cell', 'ci', 'porti�r', 'arri�r', 'droit', 'enfonc�', 'san', 'coordonn�', 'respons']"
+
+T,"['fort', 'trafic', 'boulevard', 'nom', 'De', 'voie', 'Je', 'roulai', 'entr', 'deux', 'file', 'voitur', 'arr�t�', 'quand', 'voitur', 'gauch', 'ouvert', 'port', 'avant', 'droit', 'pour', '�viter', 'fait', '�cart', 'fait', 'toucher', 'v�hicul', 'arri�r', 'moto', 'provoqu�', 'chute', 'Vu', 'import', 'trafic', 'cett', 'heur', 'l�', 'just', '�chang�', 'assur', 'nom', 'expliqu', 'constat', 'amiabl', 'sign�']"
+
+T,"['v�hicul', 'venant', 'gauch', 'trouv', 'carrefour', 'faibl', 'vitess', 'environ', 'km', 'quand', 'v�hicul', 'percut', 'v�hicul', 'refus', 'priorit�', 'droit', 'Le', 'premier', 'choc', 'atteint', 'ail', 'arri�r', 'gauch', 'sou', 'choc', 'caus', 'chauss�', 'glissant', 'v�hicul', 'd�rape', 'percut', 'protect', 'm�talliqu', 'arbr', 'o�', 'second', 'choc', 'frontal']"
+
+T,"['J', 'arr�t�', 'intersect', 'd�sirant', 'emprunt', 'rout', 'o�', 'circul', 'intens', 'effectu', 'sen', 'uniqu', 'deux', 'voi', 'lorsqu', 'dernier', 'v�hicul', 'flot', 'arrivait', 'voulu', 'engag', 'deuxi�m', 'file', 'laissant', 'libr', 'premi�r', 'Au', 'moment', 'o�', 'd�marrai', 'entendu', 'choc', 'arri�r', 'attendai', 'usag', 'd�sire', 'd�passer', 'car', 'deux', 'voi', 'mat�rialis�', 'portion', 'rout', 'o�', 'trouvai', 'arr�t']"
+
+T,"['Mr', 'nom', 'De', 'personn', 'abord', 'carrefour', 'laissait', 'passag', 'v�hicul', 'roulant', 'voie', 'abord�', 'car', 'ordinair', 'trouv', 'feu', 'carrefour', 'hor', 'fonctionn', 'jour', 'l�', 'venant', 'derri�r', 'roulant', 'sen', 'file', 'Mr', 'nom', 'De', 'personn', 'vu', 'arr�t�', 'percut�', 'fortement', 'v�hicul', 'ab�mant', 'gravement', 'De', 'fait', 'subi', 'nom', 'De', 'personn', 'coup', 'lapin', 'si�g', 'conducteur', 'endommag�', 'gendarm', 'rendu', 'place', 'ignor', '�tabli', 'rapport']"
+
+T,"['�tant', 'arr�t�', 'momentan�', 'file', 'droit', 'boulevard', 'nom', 'De', 'voie', 'mi', 'clignot', 'arr�t', 'appr�tant', 'changer', 'file', 'Le', 'v�hicul', 'arriv', 'gauch', 'serr�', 'trop', 'pr�', 'ab�m�', 'tout', 'c�t�', 'avant', 'gauch']"
+
+T,"['Je', 'roulai', 'parti', 'droit', 'chauss�', 'quand', 'v�hicul', 'arriv', 'face', 'virag', 'compl�tement', 'd�port�', 'serrant', 'droit', 'maximum', 'pu', '�viter', 'voitur', 'arrivait', 'grand', 'vitess']"
+
+T,"['nou', 'roulion', 'vill', 'portion', 'rout', 'deux', 'voi', 'o�', 'vitess', 'limit�', 'km', 'Je', 'clignotai', 'appr�tai', 'tourner', 'gauch', 'ver', 'chemin', 'nom', 'De', 'voie', 'moment', 'v�hicul', 'doubl�', 'grand', 'vitess', 'v�hicul', 'immobilis�', 'trottoir', 'gauch', 'chauss�', 'apr�', 'avoir', 'touch�']"
+
+T,"['nou', 'roulion', 'rout', 'km', 'Un', 'v�hicul', 'plein', 'phare', 'blanc', 'aveugl', 'percut�', 'grand', 'vitess', 'arri�r', 'v�hicul', 'entra�n', 's�rie', 'tonneaux', 'avant', 'immobilis', 'v�hicul', 'foss�']"
+
+T,"['Le', 'conducteur', 'v�hicul', 'doublant', 'droit', 'accroch�', 'pare', 'choc', 'avant', 'droit', 'entra�n�', 'ver', 'mur', 'amov', 'pont', 'nom', 'De', 'lieu', 'percut�', 'violem', 'apr�', 'dire', 't�moin', 'conducteur', 'v�hicul', 'slalomait', 'entr', 'voitur', 'suivaient', 'apr�', 'avoir', 'heurt�', 'pri', 'fuit', 'pu', '�tre', 'rejoint', 't�moin', 'cit�']"
+
+T,"['Je', 'circulai', 'bord', 'v�hicul', 'file', 'droit', 'r�serv�', 'v�hicul', 'allant', 'tout', 'droit', 'Le', 'v�hicul', 'circulait', 'voie', 'gauch', 'r�serv�', 'v�hicul', 'allant', 'gauch', 'marquag', 'sol', 'fl�che', 'celui', 'ci', 'rabattu', 'v�hicul', 'heurtant', 'arri�r', 'gauch']"
+
+T,"['Je', 'roulai', 'rue', 'nom', 'De', 'voie', 'quand', 'voitur', 'surgit', 'droit', '�viter', 'rabattai', 'gauch', 'freinai', 'Je', 'pu', '�viter', 'r�troviseur', 'heurt', 'sien', 'La', 'voitur', 'continu', 'car', 'rien', 'heurtai', 'benn', 'stationnait', 'c�t�', 'chauss�', 'La', 'benn', 'tout', 'endommag�', 'Ma', 'voitur', 'touch�', 'avant', 'ainsi', 'r�troviseur']"
+
+T,"['Je', 'circulai', 'environ', 'km', 'petit', 'rue', 'sen', 'uniqu', 'o�', 'stationnai', 'voitur', 'chaqu', 'c�t�', 'surgiss', 'brusquement', 'droit', 'sortant', 'park', 'immeubl', 'v�hicul', 'mme', 'nom', 'De', 'personn', 'tr�', 'peu', 'distanc', 'v�hicul', 'passag', 'imposs', 'surpri', 'freinai', 'imm�diat', 'choc', 'in�vit']"
+
+T,"['nou', 'nom', 'De', 'lieu', 'surpris', 'personn', 'frein�', 'devant', 'possibilit�', 'changer', 'voie', 'rout', 'mouill�', 'pu', 'arr�ter', 'compl�tement', 'temp']"
+
+T,"['Je', 'engageai', 'v�hicul', 'file', 'station', 'servic', 'La', 'pomp', 'pann', 'reculai', 'repartir', 'lorsqu', 'heurt�', 'v�hicul', 'engag�', '�galement', 'file', 'prendr', 'essenc']"
+
+T,"['La', 'conductric', 'autr', 'v�hicul', 'amorcion', 'virag', 'gauch', 'carrefour', 'nou', 'hauteur', 'nou', 'certain', 'rapproch�', 'cons�quent', 'percut�', 'voitur', 'embo�t', 'mienn', 'ail', 'gauch', 'avant', 'lat�ral', 'droit', 'voitur']"
+
+T,"['La', 'rout', 'glissant', 'Il', 'pleuvait', 'Le', 'probl�m', 'survenu', 'fait', 'probl�m', 'dysfonctionn', 'feux', 'signalis', 'apparem', 'feu', 'vert', 'lorsqu', 'autr', 'v�hicul', 'poursuivi', 'rout', 'Je', 'contest', 'mai', 'c�t�', 'feu', 'bien', 'vert', 'bien', 'couloir', 'voyant', 'autr', 'v�hicul', 'assez', 'loin', 'tourn�', 'gauch', 'arriv', 'certain', 'vitess', 'frein�', 'mai', 'rout', 'mouill�', 'choc', 'in�vit']"
+
+T,"['Ma', 'voitur', 'v�hicul', 'stationn�', 'park', 'o�', 'travail', 'sorti', 'v�hicul', 'tenai', 'park', 'lorsqu', 'voitur', 'gar�', 'derri�r', 'plu', 'haut', 'd�val�', 'park', 'san', 'conducteur', 'int�rieur', 'heurt�', 'voitur', 'c�t�', 'gauch', 'poussant']"
+
+T,"['Je', 'red�marrai', 'apr�', 'avoir', 'attendu', 'feu', 'tricolor', 'lorsqu', 'percut�', 'arri�r', 'v�hicul', 'B']"
+
+T,"['Le', 'v�hicul', 'accroch�', 'v�hicul', 'garant']"
+
+T,"['Le', 'v�hicul', 'heurt�', 'avant', 'v�hicul', 'stationn']"
+
+T,"['Je', 'sortai', 'place', 'stationn', 'boulevard', 'nom', 'De', 'voie', 'nom', 'De', 'lieu', 'face', 'nom', 'De', 'lieu', 'Je', 'vu', 'arriv', 'voitur', 'heurt�']"
+
+T,"['La', 'circul', 'bloqu�', 'v�hicul', 'laiss�', 'passer', 'alor', 'roulai', 'engag�', 'rue', 'nom', 'De', 'voie', 'v�hicul', 'venu', 'percut', 'contourn', 'v�hicul', 'arri�r']"
+
+T,"['En', 'man\x9cuvr', 'march', 'arri�r', 'sortir', 'stationn', 'ail', 'avant', 'gauch', 'heurt�', 'poteau']"
+
+T,"['La', 'voitur', 'gliss�', 'retrouv�', 'traver', 'rout', 'perpendiculair', 'rout', 'arrivai', 'derri�r', 'caus', 'vergla', 'pu', 'arr�ter', 'mon', 'v�hicul', 'percut�', 'v�hicul', 'v�hicul', 'projet�', 'foss�']"
+
+T,"['Je', 'roulai', 'boulevard', 'p�riph�riqu', 'vitess', 'r�duit', 'environ', 'km', 'sur', 'file', 'droit', 'dizain', 'voitur', 'formaient', 'cort�g', 'mariag', 'Il', 'coup', 'klaxon', 'occup', 'sortaient', 't�te', 'porti�r', 'agit', 'drapeaux', 'une', 'autr', 'voitur', 'mariag', 'pr�c�dait', 'voitur', 'suivai', 'arr�t�', 'attendr', 'autr', 'aucun', 'voitur', 'trouvait', 'gauch', 'file', 'arr�t�', 'admir', 'spectacl', 'donc', 'suivi', 'voitur', 'devant', 'commen�ai', 'changer', 'file', 'quand', 'motard', 'vu', 'car', 'regardait', 'cort�g', 'percut�']"
+
+T,"['Je', 'venai', 'garer', 'v�hicul', 'park', 'nom', 'De', 'lieu', 'peu', 'traver', 'rapport', 'emplac', 'pr�vu', 'recul�', 'm�tre', 'redress', 'san', 'voir', 'fourgon', 'train', 'passer', 'derri�r', 'd�j�', 'plu', 'visibl', 'r�troviseur', 'ext�rieur', 'gauch']"
+
+T,"['sur', 'autorout', 'nom', 'De', 'voie', 'pr�', 'nom', 'De', 'lieu', 'touch�', 'v�hicul', 'gauch']"
+
+T,"['arr�t�', 'feu', 'roug', 'percut�', 'voitur', 'mal', 'pri', 'virag', 'droit', 'mon', 'pare', 'choc', 'avant', 'enfonc�']"
+
+T,"['J', 'ouvert', 't�l�command', 'barri�r', 's�curit�', 'park', 'r�sidenc', 'rentrer', 'Le', 'v�hicul', 'sorti', 'grand', 'vitess', 'recul�', 'laisser', 'sortir', 'passag', 'trop', '�troit', 'croiser', 'alor', 'heurt�', 'recul', 'scooter', 'trouvait', 'arr�t', 'derri�r']"
+
+T,"['une', 'automobil', 'arrivait', 'stop', 'droit', 'san', 'marquer', 'arr�t', 'imm�diat', 'd�tourna', 'attent']"
+
+T,"['En', 'train', 'sortir', 'stationn', 'regard�', 'angl', 'mort', 'droit', 'temp', 'engag', 'vu', 'v�hicul', 'arriv']"
+
+T,"['Ma', 'voitur', 'stationn', 'rue', 'nom', 'De', 'voie', 'nom', 'De', 'lieu', 'entr', 'date', 'retour', 'retrouv�', 'v�hicul', 'endommag�', 'c�t�', 'droit', 'tout', 'longueur', 'v�hicul', 'arri�r', 'droit', 'enfonc�']"
+
+T,"['venant', 'nom', 'De', 'lieu', 'quatr', 'voi', 'emprunt', 'bretel', 'raccord', 'quai', 'nom', 'De', 'voie', 'rive', 'droit', 'apr�', 'pont', 'nom', 'De', 'voie', 'devant', 'motocyclist', 'd�rape', 'chauss�', 'glissant', 'Ce', 'motocyclist', 'venait', 'doubler', 'depui', 'entr�', 'bretel', 'vitess', 'sup�rieur', 'mienn', 'Il', 'pleuvait', 'tr�', 'fort', 'moment', 'l�', 'pour', '�viter', 'donn�', 'coup', 'volant', 'droit', 'ver', 'talu', 'frein�', 'cett', 'man\x9cuvr', 'entra�n�', 'd�rapag', 'voitur', 't�te', 'queue', 'rapid', 'impressionn', 'La', 'roue', 'arri�r', 'gauch', 'voitur', 'frapp�', 'trottoir', 'pui', 'roue', 'avant', 'gauch', 'effet', 'contrair', 'heurt�', 'aussi', 'trottoir', 'Le', 'temp', 'r�agir', 'choqu�', 'femm', 'descendr', 'voitur', 'motocyclist', 'relev�', 'moto', 'san', 'attendr', 'parti', 'pour', 'apparem', 'rien', 'grave', 'si', 'vu', 'grand', 'chose', 'trop', 'occup�', 'essay', 'ma�tris', 'voitur', 'Ma', 'vitess', 'entr', 'km', 'd�part', 'accid']"
+
+T,"['une', 'voitur', 'entr�', 'porti�r', 'avant', 'c�t�', 'conducteur', 'san', 'laisser', 'cart', 'alor', 'absent', 'La', 'voitur', 'arr�t']"
+
+T,"['d�j�', 'engag�', 'voie', 'v�hicul', 'd�port�', 'gauch', 'Il', 'respect�', 'priorit�', 'percut�', 'pare', 'choc', 'phare', 'avant', 'gauch']"
+
+T,"['En', 'sortant', 'domicil', 'd�', 'braquer', '�viter', 'v�hicul', 'arrivait', 'vive', 'allur', 'heurt�', 'born', 'ciment', 'longent', 'trottoir']"
+
+T,"['Je', 'venai', 'quitter', 'stationn', 'allai', 'sortir', 'park', 'arr�t', 'car', 'attendai', 'pouvoir', 'engag', 'avenu', 'nom', 'De', 'voie', 'alor', 'v�hicul', 'recul', 'heurt�', 'Je', 'pu', 'avanc', 'caus', 'circul', 'avenu', 'ni', 'recul', 'caus', 'voitur', 'derri�r', 'mani�r', '�viter', 'choc']"
+
+T,"['Je', 'virai', 'droit', 'aller', 'stationn', 'lorsqu', 'rentr�', 'v�hicul', 'taxi', 'circul', 'file', 'droit']"
+
+T,"['Le', 'v�hicul', 'arr�t�', 'devant', 'passag', 'niveau', 'ferm�', 'Le', 'v�hicul', 'suivait', 'derri�r', 'frein�', 'temp', 'Au', 'volant', 'conducteur', 'aac', 'confondu', 'p�dale']"
+
+T,"['B', 'respect�', 'stop']"
+
+T,"['J', 'arr�t', 'voitur', 'gar�', 'park', 'carrefour', 'nom', 'De', 'lieu', 'Je', 'venai', 'remont', 'v�hicul', 'Le', 'conducteur', 'voitur', 'fait', 'march', 'arri�r', 'partir', 'park', 'heurt�', 'alor', 'r�troviseur', 'gauch', 'v�hicul']"
+
+T,"['Je', 'roulai', 'sen', 'giratoir', 'lorsqu', 'chang�', 'file', 'tourner', 'dernier', 'moment', 'car', 'embrayag', 'cass�', 'involontair', 'heurt�', 'v�hicul', 'roulait', 'droit', 'Le', 'choc', 'projet�', 'v�hicul', 'terr', 'plein', 'situ�', 'milieu', 'chauss�']"
+
+T,"['mon', 'v�hicul', 'stationn�', 'park', 'nom', 'De', 'lieu', '�', 'retour', 'retrouv�', 'endommag�', 'avant', 'l\x92ail', 'droit']"
+
+T,"['Le', 'conducteur', 'frein�', 'net', 'laisser', 'priorit�', 'droit', 'indiqu�', 'panneaux', 'signalis', 'malgr�', 'distanc', 's�curit�', 'pu', '�viter', 'caus', 'chauss�', 'mouill�']"
+
+T,"['J', 'voie', 'gauch', 'rond', 'point', 'subit', 'v�hicul', 'devant', 'pil�', 'surpri', 'Je', 'alor', 'd�cal�', 'voie', 'droit', 'avant', 'v�hicul', 'heurt�', 'camionnett', 'arrivait', 'droit']"
+
+T,"['descendait', 'v�lo', 'rue', 'nom', 'De', 'voie', 'percut�', 'voitur', 'stationn']"
+
+T,"['La', 'personn', 'v�hicul', 'voulant', 'sortir', 'emplac', 'park', 'heurt�', 'v�hicul', 'arri�r', 'droit']"
+
+T,"['J', 'stationn�', 'quand', 'v�hicul', 'heurt�', 'ail', 'pare', 'choc']"
+
+T,"['boulevard', 'nom', 'De', 'voie', 'nom', 'De', 'lieu', 'rond', 'point', 'rue', 'nom', 'De', 'voie', 'v�hicul', 'advers', 'voulu', 'tourner', 'gauch', 'prendr', 'rue', 'nom', 'De', 'voie', 'Je', 'suivai', 'direct', 'Il', 'subit', 'arr�t�', 'carrefour', 'heurt�', 'arri�r']"
+
+T,"['Je', 'descendai', 'boulevard', 'nom', 'De', 'voie', 'ver', 'boulevard', 'nom', 'De', 'voie', 'Le', 'feu', 'vert', 'voitur', 'engag�', 'arr�t', 'feu', 'roug', 'tourner', 'gauch', 'La', 'voie', 'libr', 'Je', 'pass', 'intersect', 'quand', 'nom', 'De', 'v�hicul', 'blanc', 'voitur', 'mi', 'clignot', 'gauch', 'd�bo�t', 'droit', 'san', 'pr�venir', 'heurt', 'ail', 'gauch', 'v�hicul', 'Ma', 'vitess', 'normal']"
+
+T,"['J', 'derri�r', 'auto', '�cole', 'arr�t', 'stop', 'Le', 'v�hicul', 'red�marr�', 'avanc�', 'brusquement', 'cal�', 'Je', 'temp', 'stopper', 'v�hicul', 'l�g�rement', 'percut�', 'v�hicul', 'auto', '�cole', 'arri�r', 'celui', 'ci', 'l�ger', 'enfonc', 'coffr', 'pein', 'visibl']"
+
+T,"['Je', 'ins�r�', 'autorout', 'nom', 'De', 'voie', 'apr�', 'avoir', 'mi', 'clignot', 'gauch', 'quand', 'conducteur', 'devant', 'frein�', 'brusquement', 'embouteillag', 'oblig', 'piler', 'laisser', 'roue', 'droit', 'lign', 'droit', 'couloir', 'droit', 'Je', 'aucun', 'ca', 'forc�', 'passag', 'v�hicul', 'De', 'fait', 'v�hicul', 'emplafonn�', 'feu', 'arri�r', 'gauch', 'pare', 'choc', 'arri�r', 'gauch', 'voitur']"
+
+T,"['Je', 'arr�t�', 'feu', 'roug', 'v�hicul', 'venu', 'percut', 'arri�r']"
+
+T,"['le', 'voitur', 'arr�t', 'attendai', 'sorti', 'stationn', 'troisi�m', 'voitur', 'soudain', 'voitur', 'recul�', 'facilit', 'sorti', 'voitur', 'derri�r', 'arr�t�']"
+
+T,"['J', 'arr�t', 'garer', 'mon', 'v�hicul', 'd�', 'l�g�rement', 'recul', 'l�g�rement', 'touch�', 'v�hicul', 'coll�', 'mur', 'Il', 'vitess', 'Le', 'pare', 'choc', 'v�hicul', 'd�j�', 'bien', 'endommag�', 'avant', 'impact', 'niveau', 'plaqu', 'd\x92immatricul', 'entr', 'autr']"
+
+T,"['Je', 'faisai', 'demi', 'tour', 'march', 'arri�r', 'le', 'v�hicul', 'stationn�', 'long', 'trottoir', 'cachaient', 'vue', 'lorsqu', 'percut�', 'v�hicul']"
+
+T,"['La', 'voitur', 'arr�t�', 'laisser', 'passer', 'voitur', 'Or', 'assez', 'place', 'La', 'voitur', 'refus�', 'recul', 'La', 'voitur', 'd�', 'recul', 'La', 'voitur', 'croyant', 'pouvait', 'passer', 'avanc�', 'La', 'voitur', 'percut�', 'pare', 'choc', 'voitur', 'voitur', 'd�gag�', 'montant', 'trottoir']"
+
+T,"['Je', 'trouvai', 'arr�t', 'stationn', 'devant', 'entr�', 'garag', 'Le', 'voisin', 'sorti', 'sien', 'trouv', 'proximit�', 'march', 'arri�r', 'heurt�', 'port', 'avant', 'gauch']"
+
+T,"['gar�', 'place', 'park', 'autr', 'v�hicul', 'heurt', 'arri�r', 'droit', 'mien', 'voulant', 'garer', 'gauch']"
+
+T,"['venant', 'rue', 'nom', 'De', 'voie', 'allant', 'garer', 'rue', 'nom', 'De', 'voie', 'clignot', 'gauch', 'allum�', 'cogn�', 'moto', 'venait', 'derri�r', 'Je', 'voulai', 'dire', 'voitur', 'cogn�', 'moto']"
+
+T,"['frein', 'main', 'mal', 'serr�', 'v�hicul', 'recul�', 'heurt�', 'v�hicul', 'A']"
+
+T,"['une', 'voitur', 'frein�', 'brutal', 'devant', 'laisser', 'passer', 'voitur', 'd�bouchait', 'droit', 'donc', 'priorit�', 'distanc', 'suffisant', 'freiner', 'sauf', 'pleuvait', 'donc', '�', 'aquaplan', '�', 'donc', 'v�hicul', 'arr�t�', 'd�g�t', 'appar', 'voitur', 'tamponn�', 'Il', 'voitur', 'car', 'phare', 'droit', '�br�ch�', 'Le', 'conducteur', 'v�hicul', 'voulu', 'remplir', 'constat', 'alor', 'pare', 'choc', 'rien', 'Je', 'demand', 'avi', 'expert', 'merci']"
+
+T,"['Je', 'trouvai', 'arr�t', 'avenu', 'nom', 'De', 'voie', 'attend', 'feu', 'pass', 'vert', 'quand', 'san', 'raison', 'apparent', 'heurt�', 'v�hicul', 'venait', 'derri�r', 'Ma', 'voitur', 'alor', 'tra�n�', 'trottoir', 'heurt�', 'bitt', 'acier', 'devant']"
+
+T,"['apr�', 'avoir', 'nettoy�', 'voitur', 'servic', 'lavag', 'trouv', 'trajet', 'ins�r�', 'voie', 'gauch', 'bien', 'pri', 'connaiss', 'trafic', 'contr�l', 'direct', 'r�troviseur', 'cett', 'voie', 'foi', 'voie', 'insert', 'national', 'd�c�l�ration', 'd�partemental', 'impact', 'lieu', 'lorsqu', 'v�hicul', 'quasiment', 'ins�r�', 'autr', 'v�hicul', 'd�bo�t�', 'moment', 'o�', 'ins�rai']"
+
+T,"['En', 'sortant', 'chez', 'v�hicul', 'accroch�', 'v�hicul', 'stationn']"
+
+T,"['sur', 'park', 'quitt', 'place', 'stationn', 'personn', 'recul']"
+
+T,"['dan', 'petit', 'rue', 'nom', 'De', 'lieu', 'voitur', 'gar�', 'droit', 'Je', 'doubl', 'retrouv', 'nez', 'nez', 'voitur', 'pouvai', 'voir', 'Je', 'frein', 'roul', 'moin', 'km', 'me', 'roue', 'bloquent', 'percut']"
+
+T,"['une', 'moto', 'gar�', 'place', 'park', 'La', 'voitur', 'man\x9cuvrait', 'sortir', 'place', 'En', 'recul', 'heurt�', 'moto', 'avant', 'l\x92a', 'fait', 'tomber', 'c�t�', 'gauch']"
+
+T,"['Je', 'roulai', 'v�hicul', 'voie', 'lorsqu', 'v�hicul', 'd�port�', 'voie', 'continu�', 'd�porter', 'j\x92ai', 'donn�', 'coup', 'volant', 'gauch', 'pui', 'droit', 'lorsqu', 'v�hicul', 'd�rap�', 'heurt�', 'arri�r', 'gauch', 'barri�r', 'droit', 'La', 'chauss�', 'humid', 'vitess', 'r�glementair']"
+
+T,"['Je', 'roulai', 'rout', 'nom', 'De', 'voie', 'direct', 'nom', 'De', 'lieu', 'Le', 'v�hicul', 'venait', 'voie', 'circul', 'gauch', 'Le', 'v�hicul', 'respect�', 'stop', 'percut�', 'avant', 'gauch', 'En', 'plu', 'd�g�t', 'constat�', 'pneu', 'voitur', 'd�t�rior�']"
+
+T,"['Je', 'roulai', 'entrant', 'park', '�', 'intersect', 'v�hicul', 'vue', 'Il', 'heurt�', 'fin', 'travers�', 'impact', 'pare', 'choc', 'porti�r', 'arri�r', 'poign�', 'porti�r', 'avant', 'La', 'conductric', 'avou�', 'avoir', 'vu', 'distract']"
+
+T,"['mlle', 'nom', 'De', 'personn', 'v�hicul', 'engag�', 'sen', 'interdit', 'effectu', 'grand', 'boucl', 'couper', 'boulevard', 'band', 'circulair', 'mon', 'fil', 'roulait', 'boulevard', 'passait', 'feu', 'vert', 'Le', 'v�hicul', 'engag�', 'sen', 'interdit', 'fait', 'demi', 'tour', 's\x92est', 'retrouv�', 'sen', 'interdi']"
+
+T,"['J', 'stationn', 'devant', 'lieu', 'travail', 'une', 'voitur', 'recul', 'ab�m�', 'porti�r', 'avant', 'droit', 'r�troviseur', 'pr�cise', 'v�hicul', 'moment', 'choc', 'personn', 'venu', 'pr�venir', 'apr�', 'accid']"
+
+T,"['l\x92accid', 'survenu', 'suit', 'freinag', 'flot', 'circul', 'Le', 'v�hicul', 'pu', 'arr�ter', 'heurt�', 'derri�r', 'par', 'suit', 'constat�', 'v�hicul', 'faisait', 'bruit', 'anorm', 'lor', 'changement', 'direct', 'ver', 'droit']"
+
+T,"['Le', 'v�hicul', 'heurt�', 'arri�r', 'v�hicul', 'sen', 'giratoir']"
+
+T,"['J', 'allai', 'passer', 'feu', 'roug', 'quand', 'v�hicul', 'vu', 'mi', 'clignot', 'entr�', 'dedan']"
+
+T,"['La', 'sorti', 'rue', 'nom', 'De', 'voie', 'embouteill�', 'v�hicul', 'droit', 'arr�t�', 'cru', 'laissait', 'passer', 'mi', 'clignot', 'engag�', 'conducteur', 'voitur', 'final', 'd�cid�', 'avanc', 'o�', 'choc']"
+
+T,"['En', 'stationn', 'v�hicul', 'advers', 'percut�', 'moto', 'tomb�', 'lorsqu', 'v�hicul', 'quittait', 'stationn']"
+
+T,"['j\x92ai', 'effectu�', 'man\x9cuvr', 'difficil', 'park', 'plage', 'surcharg�', 'Ma', 'voitur', 's\x92est', 'encastr�', 'sou', 'barri�r', 'boi', 'plac�', 'cm', 'environ', 'hauteur', 'j\x92ai', 'heurt�', 'talu', 'trouvait', 'dessou']"
+
+T,"['avant', 'abord', 'rond', 'point', 'lequel', 'circulai', 'plusieur', 'voitur', 'arr�t�', 'afin', 'laisser', 'priorit�', 'toujour', 'arr�t', 'heurt�', 'violem', 'arri�r', 'v�hicul']"
+
+T,"['pour', 'laisser', 'passer', 'voitur', 'droit', 'recul', 'heurt�', 'v�hicul', 'derri�r']"
+
+T,"['arr�t�', 'feu', 'roug', 'heurt�', 'arri�r', 'v�hicul', 'Le', 'conducteur', 'reconnu', 'avoir', 'frein�', 'trop', 'tard', 'endommag', 'bouclier', 'arri�r', 'pare', 'choc', 'plaqu', 'min�ralogiqu', 'v�hicul']"
+
+T,"['Je', 'roulai', 'nom', 'De', 'voie', 'Un', 'ralentiss', 'produit', 'hauteur', 'nom', 'De', 'lieu', 'ralenti', 'pui', 'frein�', 'imm�diat', 'mi', 'warn', 'conducteur', 'voitur', 'derri�r', 'frein�', 'temp', 'percut�', 'v�hicul', 'arri�r']"
+
+T,"['Je', 'quittai', 'emplac', 'o�', 'gar�', 'partir', 'd�jeuner', 'vu', 'voitur', 'stationn�', 'derri�r', 'rentr�', 'dedan']"
+
+T,"['J', 'attendai', 'v�hicul', 'termin�', 'man\x9cuvr', 'garer', 'afin', 'prendr', 'place', 'park', 'quand', 'sent', 'petit', 'choc', 'contr', 'v�hicul', 'frottement', 'ray�', 'peintur', 'port', 'avant', 'gauch']"
+
